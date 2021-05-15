@@ -1,7 +1,0 @@
-.hidden-link a {
-	opacity: 0;
-}
-
-.hidden-link a:focus {
-	opacity: unset;
-}
