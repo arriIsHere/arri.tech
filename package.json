@@ -1,20 +1,24 @@
 {
-  "name": "arri.tech",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/arricorp/arri.tech.git"
-  },
-  "keywords": [],
-  "author": "Arriana Blais <arriBlais@gmail.com>",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://gitlab.com/arricorp/arri.tech/issues"
-  },
-  "homepage": "https://gitlab.com/arricorp/arri.tech#readme"
+	"name": "arri.tech",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "eleventy",
+		"start": "eleventy --serve --port=3000"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@gitlab.com/arricorp/arri.tech.git"
+	},
+	"keywords": [],
+	"author": "Arriana Blais <arriBlais@gmail.com>",
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://gitlab.com/arricorp/arri.tech/issues"
+	},
+	"homepage": "https://gitlab.com/arricorp/arri.tech#readme",
+	"devDependencies": {
+		"@11ty/eleventy": "^0.12.1"
+	}
 }

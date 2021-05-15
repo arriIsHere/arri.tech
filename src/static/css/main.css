@@ -1,0 +1,7 @@
+.skip-to-main a {
+	opacity: 0;
+}
+
+.skip-to-main a:focus {
+	opacity: unset;
+}
