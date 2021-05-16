@@ -11,31 +11,12 @@ img.profile-image {
 	width: 8em;
 }
 
-.header {
-	display: grid;
-	grid-template-areas: 
-		"profile-image greeting skip-to-main"
-		"profile-image about-me       .     ";
-
-	grid-template-columns: auto auto 1fr;
-	grid-template-rows: auto 1fr;
-	column-gap: 1em;
+a.permalink {
+	opacity: 0;
+	text-decoration: none;
 }
 
-.profile-image {
-	grid-area: profile-image;
+a.permalink:focus,
+a.permalink:hover {
+	opacity: unset;
 }
-
-.greeting {
-	grid-area: greeting;
-}
-
-.about-me {
-	grid-area: about-me;
-}
-
-.skip-to-main {
-	grid-area: skip-to-main;
-}
-
-
