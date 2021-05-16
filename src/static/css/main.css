@@ -18,6 +18,7 @@ img.profile-image {
 		"profile-image about-me       .     ";
 
 	grid-template-columns: auto auto 1fr;
+	grid-template-rows: auto 1fr;
 	column-gap: 1em;
 }
 

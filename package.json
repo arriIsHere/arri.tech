@@ -19,6 +19,8 @@
 	},
 	"homepage": "https://gitlab.com/arricorp/arri.tech#readme",
 	"devDependencies": {
-		"@11ty/eleventy": "^0.12.1"
+		"@11ty/eleventy": "^0.12.1",
+		"markdown-it": "^10.0.0",
+		"markdown-it-anchor": "^7.1.0"
 	}
 }
