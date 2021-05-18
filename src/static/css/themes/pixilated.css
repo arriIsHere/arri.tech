@@ -1,6 +1,8 @@
 @import '/static/fonts/GnuUnifontFull.css';
+@import '/static/fonts/hotfixel.css';
 
 body, html {
-	--main-font: "Gnu Unifont", monospace;
+	--heading-font: 'hotfixel', monospace;
+	--main-font: monospace;
 	font-size: 18px;
 }
