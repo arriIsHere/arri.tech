@@ -1,6 +1,6 @@
 @import '/static/fonts/GnuUnifontFull.css';
-@import '/static/fonts/Retromoticons.css';
 
-body {
-	--main-font: "Gnu Unifont", "Retromoticons", monospace;
+body, html {
+	--main-font: "Gnu Unifont", monospace;
+	font-size: 18px;
 }

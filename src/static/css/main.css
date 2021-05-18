@@ -1,3 +1,11 @@
+body {
+	font-family: var(--main-font);
+}
+
+a {
+	font-family: var(--main-font);
+}
+
 .hidden-link a {
 	opacity: 0;
 }
