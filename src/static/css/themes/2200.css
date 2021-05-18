@@ -1,0 +1,7 @@
+
+
+body, html {
+	--heading-font: 'hotfixel', monospace;
+	--main-font: monospace;
+	font-size: 18px;
+}

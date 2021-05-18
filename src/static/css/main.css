@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 img.profile-image {
 	border-radius: 4em;
 	width: 8em;
+	filter: sepia(200%)
 }
 
 a.permalink {
