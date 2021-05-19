@@ -2,12 +2,18 @@ body {
 	font-family: var(--main-font);
 }
 
+p {
+	text-shadow: var(--paragraph-shadow);
+}
+
 a {
-	font-family: var(--main-font);
+	font-family: var(--link-font);
+	color: var(--link-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: var(--heading-font);
+	text-shadow: var(--header-shadow);
 }
 
 .hidden-link a {

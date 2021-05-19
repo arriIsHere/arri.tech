@@ -1,8 +1,85 @@
 @import '/static/fonts/hotfixel.css';
 @import '/static/fonts/GnuUnifontFull.css';
+@import '/static/fonts/hotfixel.css';
 
 body, html {
 	--heading-font: 'hotfixel', monospace;
 	--main-font: 'Gnu Unifont', monospace;
-	font-size: 18px;
+	--link-font: 'hotfixel', monospace;
+	--link-color: rgb(187, 90, 171);
+	--darken: rgba(40, 40, 40, 0.5);
+	--lighten: rgba(170, 170, 170, 0.25);
+	--header-shadow-color: rgba(158, 223, 209, 0.75);
+	--paragrah-shadow-color: rgba(138, 180, 177, 0.75);
+	--paragraph-shadow: 0.1em 0.1em 0.1em var(--paragrah-shadow-color);
+	--header-shadow: 0.1em 0.1em 0.1em var(--header-shadow-color);
+	font-size: 36px;
+
+	background: fixed top / cover no-repeat url('/static/images/background.jpg');
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+p {
+	font-size: 18pt;
+	margin-bottom: 0;
+	margin-top: 0.25em;
+}
+
+a {
+	font-size: 1rem;
+	text-decoration: none;
+}
+
+.subtitle {
+	font-size: 1rem;
+	font-style: italic;
+}
+
+.main, .navigation {
+	background-color: rgba(255, 255, 255, 0.75);
+}
+
+@media (max-width: 2048px) {
+	body, html {
+		font-size: 28px;
+	}
+
+	.main {
+		font-size: 2rem;
+	}
+}
+
+@media (max-width: 1080px) {
+	body, html {
+		font-size: 25px;
+	}
+}
+
+@media (max-width: 650px) {
+	body, html {
+		font-size: 18px;
+	}
+
+	.subtitle {
+		font-size: 1.25rem;
+	}
+
+	a {
+		font-size: 1.25rem;
+	}
+
+	p {
+		font-size: 16pt;
+	}
 }

@@ -1,10 +1,11 @@
 .header {
 	display: grid;
 	grid-template-areas: 
-		"profile-image greeting skip-to-main"
-		"profile-image about-me       .     ";
+		"profile-image greeting"
+		"profile-image about-me"
+		"profile-image skip-to-main";
 
-	grid-template-columns: auto auto 1fr;
+	grid-template-columns: auto 1fr;
 	grid-template-rows: auto 1fr;
 	column-gap: 1em;
 }
@@ -21,8 +22,25 @@
 	grid-area: skip-to-main;
 }
 
+main {
+	max-width: 40rem;
+	margin: 0 auto;
+	padding: 0.75em;
+}
+
 nav.navigation ol {
-	display: grid;
-	justify-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0.5em;
+	justify-content: center;
+}
+
+@media (max-width: 496px) {
+	.header {
+		grid-template-areas: 
+		"profile-image greeting"
+		"about-me      about-me"
+		"skip-to-main  skip-to-main";
+	}
 }
 
