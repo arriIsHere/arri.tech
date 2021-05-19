@@ -41,6 +41,33 @@ a.permalink:hover {
 	opacity: unset;
 }
 
+@keyframes wavingAnimation {
+	0% {
+		transform: rotate(15deg);
+	}
+
+	35% {
+		transform: rotate(10deg);
+	}
+
+	65% {
+		transform: rotate(-10deg);
+	}
+
+	100% {
+		transform: rotate(-15deg);
+	}
+}
+
+.animated-wave-hand {
+	display: inline-block;
+	transform-origin: bottom right;
+}
+
+.greeting:hover .animated-wave-hand {
+	animation: 400ms infinite alternate wavingAnimation;
+}
+
 nav.navigation ol {
 	list-style: none;
 	padding: 0;
