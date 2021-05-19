@@ -6,7 +6,8 @@ body, html {
 	--heading-font: 'hotfixel', monospace;
 	--main-font: 'Gnu Unifont', monospace;
 	--link-font: 'hotfixel', monospace;
-	--link-color: rgb(187, 90, 171);
+	--link-color: rgb(209, 104, 204);
+	--link-shadow: rgba(146, 69, 142, 0.25);
 	--darken: rgba(40, 40, 40, 0.5);
 	--lighten: rgba(170, 170, 170, 0.25);
 	--header-shadow-color: rgba(158, 223, 209, 0.75);
@@ -39,6 +40,11 @@ p {
 a {
 	font-size: 1rem;
 	text-decoration: none;
+	text-shadow: 0.2em 0.2em 0.2em var(--link-shadow);
+}
+
+a:hover {
+	transform: translate(-0.2em, -0.2em);
 }
 
 .subtitle {

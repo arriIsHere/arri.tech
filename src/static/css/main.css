@@ -7,6 +7,7 @@ p {
 }
 
 a {
+	display: inline-block;
 	font-family: var(--link-font);
 	color: var(--link-color);
 }
