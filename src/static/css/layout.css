@@ -37,9 +37,9 @@ main {
 
 nav.navigation ol {
 	display: flex;
-	flex-wrap: wrap;
 	padding: 0.5em;
 	justify-content: center;
+	align-items: center;
 }
 
 nav.navigation ol li {
@@ -52,6 +52,14 @@ nav.navigation ol li {
 		"profile-image greeting"
 		"about-me      about-me"
 		"skip-to-main  skip-to-main";
+	}
+
+	nav.navigation ol {
+		flex-direction: column;
+	}
+
+	nav.navigation ol a {
+		padding: 0.5em;
 	}
 }
 
