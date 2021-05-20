@@ -10,7 +10,7 @@ module.exports = function(eleventyConfig) {
 		level: 2, 
 		permalink: true,
 		permalinkClass: 'permalink',
-		permalinkSymbol: '<span role="img" aria-hidden="true" aria-label="permalink">🖇️</span>',
+		permalinkSymbol: '<span role="img" aria-hidden="true" aria-label="permalink">🖇</span>',
 
 	});
 
