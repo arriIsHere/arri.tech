@@ -8,12 +8,14 @@ body, html {
 	--emoji-font: 'hotfixel', monospace;
 	--link-color: rgb(209, 104, 204);
 	--link-shadow: rgba(146, 69, 142, 0.25);
+	--outline-color: rgb(26, 189, 153);
 	--darken: rgba(40, 40, 40, 0.5);
 	--lighten: rgba(170, 170, 170, 0.25);
 	--header-shadow-color: rgba(158, 223, 209, 0.75);
 	--paragrah-shadow-color: rgba(138, 180, 177, 0.75);
 	--paragraph-shadow: 0.1em 0.1em 0.1em var(--paragrah-shadow-color);
 	--header-shadow: 0.1em 0.1em 0.1em var(--header-shadow-color);
+	--outline: var(--outline-color) dotted 0.1em;
 	font-size: 36px;
 
 	background: fixed top / cover no-repeat url('/static/images/background.jpg');

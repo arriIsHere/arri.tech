@@ -21,6 +21,10 @@ h1, h2, h3, h4, h5, h6 {
 	text-shadow: var(--header-shadow);
 }
 
+*:focus {	
+	outline: var(--outline);
+}
+
 .hidden-link a {
 	opacity: 0;
 }
@@ -40,8 +44,10 @@ a.permalink {
 	text-decoration: none;
 }
 
-a.permalink:focus,
-a.permalink:hover {
+a.permalink:is(:hover, :focus),
+h2:is(:hover, :focus) a.permalink,
+h3:is(:hover, :focus) a.permalink,
+h4:is(:hover, :focus) a.permalink {
 	opacity: unset;
 }
 
