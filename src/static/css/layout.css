@@ -42,6 +42,10 @@ nav.navigation ol {
 	justify-content: center;
 }
 
+nav.navigation ol li {
+	padding: 0 1em;
+}
+
 @media (max-width: 496px) {
 	.header {
 		grid-template-areas: 

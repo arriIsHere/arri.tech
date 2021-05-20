@@ -1,6 +1,5 @@
 @import '/static/fonts/hotfixel.css';
 @import '/static/fonts/GnuUnifontFull.css';
-@import '/static/fonts/hotfixel.css';
 
 body, html {
 	--heading-font: 'hotfixel', monospace;
