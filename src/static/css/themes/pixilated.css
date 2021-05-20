@@ -6,6 +6,7 @@ body, html {
 	--heading-font: 'hotfixel', monospace;
 	--main-font: 'Gnu Unifont', monospace;
 	--link-font: 'hotfixel', monospace;
+	--emoji-font: 'hotfixel', monospace;
 	--link-color: rgb(209, 104, 204);
 	--link-shadow: rgba(146, 69, 142, 0.25);
 	--darken: rgba(40, 40, 40, 0.5);
@@ -31,6 +32,10 @@ h2 {
 	font-size: 1.5rem;
 }
 
+h3 {
+	font-size: 1.25rem;
+}
+
 p {
 	font-size: 18pt;
 	margin-bottom: 0;
@@ -38,10 +43,13 @@ p {
 }
 
 a {
-	font-size: 1rem;
 	text-decoration: none;
 	text-shadow: 0.2em 0.2em 0.2em var(--link-shadow);
 	transition: transform 200ms ease-in-out;
+}
+
+.navigation {
+	font-size: 1rem;
 }
 
 a:hover {
@@ -82,7 +90,7 @@ a:hover {
 		font-size: 1.25rem;
 	}
 
-	a {
+	.navigation {
 		font-size: 1.25rem;
 	}
 

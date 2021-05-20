@@ -1,5 +1,8 @@
 body {
 	font-family: var(--main-font);
+
+	margin: 0;
+	padding: 0.5em;
 }
 
 p {
@@ -39,6 +42,10 @@ a.permalink {
 a.permalink:focus,
 a.permalink:hover {
 	opacity: unset;
+}
+
+span[role=img].ascii-art {
+	font-family: var(--emoji-font);
 }
 
 @keyframes wavingAnimation {
