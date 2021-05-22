@@ -1,8 +1,9 @@
 @import '/static/fonts/hotfixel.css';
+@import '/static/fonts/Warioland.css';
 
 body, html {
 	--heading-font: 'hotfixel', monospace;
-	--main-font: monospace;
+	--main-font: 'warioland', monospace;
 	--link-font: 'hotfixel', monospace;
 	--emoji-font: 'hotfixel', monospace;
 	--link-color: rgb(209, 104, 204);
