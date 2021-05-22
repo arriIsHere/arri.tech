@@ -68,3 +68,7 @@ guides on how to make your tooling usable and easy for differently-abled people!
 <a href="https://noti.st/arriishere/sdwryN" rel="noopener noreferrer" target="_blank">Slides/Notes</a>
 
 <a href="https://youtu.be/LAlupIRduJo" rel="noopener noreferrer" target="_blank">Recording</a>
+
+## Talk to me!
+
+Hya! Come follow me on other places on the interwebs!
