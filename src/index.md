@@ -73,6 +73,6 @@ guides on how to make your tooling usable and easy for differently-abled people!
 
 Hya! Come follow me on other places on the interwebs!
 
-<a href="https://twitter.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="social-icon" src="/static/icons/twitter.svg" alt="Twitter logo">@ArriIsHere</a>
+<a href="https://twitter.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" src="/static/icons/twitter.svg" alt="Twitter logo">@ArriIsHere</a>
 
-<a href="https://gitlab.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="social-icon" src="/static/icons/gitlab.svg" att="Gitlab logo">ArriIsHere</a>
+<a href="https://gitlab.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" src="/static/icons/gitlab.svg" att="Gitlab logo">ArriIsHere</a>

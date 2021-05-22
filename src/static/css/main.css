@@ -91,7 +91,11 @@ nav.navigation ol {
 	padding: 0;
 }
 
-.social-icon {
+.icon {
 	height: 1em;
 	margin-right: 0.5em;
+}
+
+nav .icon {
+	margin-right: 0;
 }
