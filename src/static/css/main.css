@@ -90,3 +90,8 @@ nav.navigation ol {
 	list-style: none;
 	padding: 0;
 }
+
+.social-icon {
+	height: 1em;
+	margin-right: 0.5em;
+}
