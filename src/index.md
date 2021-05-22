@@ -5,13 +5,14 @@ title: welcome
 
 ## Hoi
 
-Welcome humans! I'm Arri! I am a Senior Software engineer with a knack for frontend development and a passion for Accessability! 
-I have just now started doing talks at conferences but I love it and am hoping to do more! 
+Welcome humans! I'm Arri, a Senior Software Engineer with a knack for frontend development 
+and a passion for Accessability. I have just now started doing talks at conferences but I 
+love it and am hoping to do more!
 
 ## Projects
 
-I spend most of my development time with work and like to spend my free time outdoors! 
-However there are some side projects I have made for fun! Feel free to check them out.
+I spend most of my development time with work and like to spend my free time outdoors!.
+However there are some side projects I have made for fun. Feel free to check them out.
 <span class="ascii-art" role="img" aria-hidden="true" aria-label="ascii smiley face">:)</span>
 
 ### Brewlab
@@ -46,7 +47,7 @@ source code for those wishing to use it, or draw upon it for their games.
 
 This is a simple component library that I made. It contains HTML and CSS only (no JavaScript) 
 snippets that you can plug into your project. My intent is to encourage more developers to see 
-how powerful CSS is and how much you can do even with javascript Disabled.
+how powerful CSS is and how much you can do even with JavaScript Disabled.
 
 <a href="https://niljs.com/" rel="noopener noreferrer" target="_blank">nilJS</a>
 
