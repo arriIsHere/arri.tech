@@ -11,6 +11,7 @@ I have just now started doing talks at conferences but I love it and am hoping t
 ## Projects
 
 I spend most of my development time with work and like to spend my free time outdoors! 
+However there are some side projects I have made for fun! Feel free to check them out.
 <span class="ascii-art" role="img" aria-hidden="true" aria-label="ascii smiley face">:)</span>
 
 ### Brewlab
