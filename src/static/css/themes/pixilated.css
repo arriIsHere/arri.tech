@@ -17,7 +17,7 @@ body, html {
 	--paragraph-shadow: 0.1em 0.1em 0.1em var(--paragrah-shadow-color);
 	--header-shadow: 0.1em 0.1em 0.1em var(--header-shadow-color);
 	--outline: var(--outline-color) dotted 0.1em;
-	font-size: 36px;
+	font-size: 48px;
 
 	background: fixed top / cover no-repeat url('/static/images/background.jpg');
 }
@@ -39,7 +39,7 @@ h3 {
 }
 
 p {
-	font-size: 18pt;
+	font-size: 36pt;
 	margin: 0;
 	padding-bottom: 0.5em;
 }
@@ -63,13 +63,27 @@ a:hover {
 	font-style: italic;
 }
 
-@media (max-width: 2048px) {
+@media (max-width: 4090px) {
+	body, html {
+		font-size: 36pt;
+	}
+
+	p {
+		font-size: 24pt;
+	}
+}
+
+@media (max-width: 2040px) {
 	body, html {
 		font-size: 28px;
 	}
 
 	.main {
 		font-size: 2rem;
+	}
+
+	p {
+		font-size: 18pt;
 	}
 }
 

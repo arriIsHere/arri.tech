@@ -30,7 +30,7 @@ html, body {
 }
 
 main {
-	max-width: 40rem;
+	max-width: 60rem;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -46,6 +46,12 @@ nav.navigation ol li {
 	padding: 0 1em;
 }
 
+@media (max-width: 4090px) {
+	main {
+		max-width: 40rem;
+	}
+}
+
 @media (max-width: 496px) {
 	.header {
 		grid-template-areas: 
@@ -53,7 +59,9 @@ nav.navigation ol li {
 		"about-me      about-me"
 		"skip-to-main  skip-to-main";
 	}
+}
 
+@media (max-width: 800px) {
 	nav.navigation ol {
 		flex-direction: column;
 	}
