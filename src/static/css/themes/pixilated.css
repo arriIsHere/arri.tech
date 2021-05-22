@@ -1,14 +1,14 @@
 @import '/static/fonts/hotfixel.css';
-@import '/static/fonts/GnuUnifontFull.css';
 
 body, html {
 	--heading-font: 'hotfixel', monospace;
-	--main-font: 'Gnu Unifont', monospace;
+	--main-font: monospace;
 	--link-font: 'hotfixel', monospace;
 	--emoji-font: 'hotfixel', monospace;
 	--link-color: rgb(209, 104, 204);
 	--link-shadow: rgba(146, 69, 142, 0.25);
 	--outline-color: rgb(26, 189, 153);
+	--section-background: rgba(255, 255, 255, 0.75);
 	--darken: rgba(40, 40, 40, 0.5);
 	--lighten: rgba(170, 170, 170, 0.25);
 	--header-shadow-color: rgba(158, 223, 209, 0.75);
@@ -39,8 +39,8 @@ h3 {
 
 p {
 	font-size: 18pt;
-	margin-bottom: 0;
-	margin-top: 0.25em;
+	margin: 0;
+	padding-top: 0.25em;
 }
 
 a {
@@ -60,10 +60,6 @@ a:hover {
 .subtitle {
 	font-size: 1rem;
 	font-style: italic;
-}
-
-.main, .navigation {
-	background-color: rgba(255, 255, 255, 0.75);
 }
 
 @media (max-width: 2048px) {

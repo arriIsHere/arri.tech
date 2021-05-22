@@ -32,7 +32,7 @@ html, body {
 main {
 	max-width: 40rem;
 	margin: 0 auto;
-	padding: 0.75em;
+	padding: 0;
 }
 
 nav.navigation ol {
@@ -63,3 +63,7 @@ nav.navigation ol li {
 	}
 }
 
+main :is(p,h1, h2, h3, h4, h5, h6) {
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
