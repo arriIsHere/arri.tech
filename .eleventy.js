@@ -16,6 +16,8 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.setLibrary('md', markdownOptions);
 
+	eleventyConfig.addPassthroughCopy('src/_headers');
+
 	return {
 		dir: {
 			input: 'src',
