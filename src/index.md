@@ -23,15 +23,11 @@ for the frontend, and
 <a href="https://github.com/prisma/graphql-yoga" rel="noopener noreferrer" target="_blank">
 GraphQL-Yoga</a>
 on the backend. Data is persisted using MongoDB. This is currently live but is only used for my 
-personal brewing projects.
+personal brewing projects. I also created a utility library which you are free to use!
 
-### Untitled Todo List
-This is a simple todo list in the style of the one found in Untitled Goose Game. It persists your
-items to local storage and you can cross them off when they are done.
+<a href="https://brewlab.pub/" rel="noopener noreferrer" target="_blank">Brewlab</a>
 
-<a href="https://untitledtodo.xyz/" rel="noopener noreferrer" target="_blank">Untitled Todo List</a>
-
-<a href="https://github.com/bblais23/untitled-todo-list" rel="noopener noreferrer" target="_blank">Source</a>
+<a href="https://github.com/arriIsHere/brewlab-calc" rel="noopener noreferrer" target="_blank">Library Source</a>
 
 ### Campaign Setting
 Originally intended for a one-off campaign, I made the Shadowlance setting and have continued to 
@@ -41,7 +37,7 @@ source code for those wishing to use it, or draw upon it for their games.
 
 <a href="https://shadowlance.benblais.com/" rel="noopener noreferrer" target="_blank">Shadowlance</a>
 
-<a href="https://github.com/bblais23/shadowlance" rel="noopener noreferrer" target="_blank">Source</a>
+<a href="https://github.com/arriIsHere/shadowlance" rel="noopener noreferrer" target="_blank">Source</a>
 
 ### nilJS
 
@@ -51,7 +47,7 @@ how powerful CSS is and how much you can do even with JavaScript Disabled.
 
 <a href="https://niljs.com/" rel="noopener noreferrer" target="_blank">nilJS</a>
 
-<a href="https://github.com/bblais23/no-js-components" rel="noopener noreferrer" target="_blank">Source</a>
+<a href="https://github.com/arriIsHere/no-js-components" rel="noopener noreferrer" target="_blank">Source</a>
 
 ## Talks
 
@@ -76,4 +72,4 @@ Hya! Come follow me on other places on the interwebs!
 
 <a href="https://twitter.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" src="/static/icons/twitter.svg" alt="Twitter logo">@ArriIsHere</a>
 
-<a href="https://gitlab.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" src="/static/icons/gitlab.svg" alt="Gitlab logo">ArriIsHere</a>
+<a href="https://github.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" src="/static/icons/github.svg" alt="Gitlab logo">ArriIsHere</a>
