@@ -64,7 +64,9 @@ inserted comes out clean.
 - 2 Tbsp Apple Cider
 - 2 Tbsp melted butter
 
-1. Combine 
+1. Combine ingridients in a bowl
+1. Poke top of cupcakes with a toothpick and lightly brush small amounts of
+the mixture on top, should absorb through the holes.
 
 ### Apple Cider Buttercream
 
@@ -72,13 +74,16 @@ inserted comes out clean.
 - 6 Tbsp Butter (Room Temperature)
 - 5oz (1 1/2 Cups) Sifted Powdered Sugar
 - 1 tsp Vanilla past (extract works too but paste is better for frostings)
-- 2 tbsp Apple Cider Concentrate (see [above](#apple-cider-concentrate) for instructions)
-- 2 tsp flour
+- 1 tbsp Apple Cider Concentrate (see [above](#apple-cider-concentrate) for instructions)
 - 1/2 tsp ground cinnamon
 - 1/4 tsp ground nutmeg
 - 1/4 tsp ground cloves
 
 1. Vigorously whisk the butter and the shortening in a large bowl
 1. Whisk in the cinnamon, nutmeg, and cloves.
-1. Whisk the powdered sugar
-1. 
+1. Whisk the powdered sugar into the butter mixture
+1. Whisk the vanilla paste into the butter mixture
+1. Slowly fold the apple cider concentrate into the frosting mixture.
+1. Place in fridge to cool for 20mins
+1. take out and, using a spatula, spread over the top of cooled, washed
+cupcakes.
