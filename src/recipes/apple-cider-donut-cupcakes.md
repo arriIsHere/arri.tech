@@ -11,7 +11,7 @@ a try and they turned out delicious!
 
 *1 Batch Yields: 12 cupcakes*
 
-### Apple cider concentrate
+### Apple Cider Concentrate
 
 - 1 1/2 Cups Apple cider
 
@@ -23,3 +23,62 @@ a try and they turned out delicious!
 > I highly recommend reducing the cider beforehand, it's simple but time consuming.
 > It keeps well in the fridge, and you can make extra if you plan on making mutiple batches, 
 > or have some other baking projects you want to use it for.
+
+### Apple Cider Donut Cupcakes
+
+- 6oz (~1 1/4 cup) Cake flour
+- 2 Tbsp Corn starch
+- 1 1/4 tsp Baking powder
+- 1/2 tsp Baking soda
+- 1 tsp salt
+- 1/2 tsp ground cinnamon
+- 1/4 tsp ground nutmeg
+- 1/4 tsp ground cloves
+
+- 2 Eggs
+- 3/4 Cup Sugar
+
+- 1/2 Cup Sour cream
+- 1 tsp vanilla extract
+- 1/2 Cup Apple Cider Concentrate (see [above](#apple-cider-concentrate) for instructions)
+
+- 8 Tbsp melted butter
+
+1. Preheat oven to 325F
+1. Whisk flour, corn starch, baking powder, baking soda, salt, cinnamon, 
+nutmeg, and cloves in a medium bowl.
+1. Seprate eggs, placing the whites in a large bowl along with sugar. Place egg yokes
+in a small bowl with sour cream, vanilla, and apple cider concentrate
+1. Vigorously whisk egg white and sugar mixture in a large bowl to soft peaks.
+1. Continue whisking and slowly pour in melted butter, continue mixing until
+butter is fully combined with the egg white mixture.
+1. While slowly mixing the egg white mixture, add in, in thirds, the dry mixture alternating
+with the sour cream mixture. Batter should be smooth before the next additions.
+1. Pour batter into cupcake pan lined with baking cups.
+1. Bake for 15-25 minutes, the tops should be a deep golden brown and a toothpick
+inserted comes out clean.
+1. Set cupcake pan on a wire rack to cool.
+
+#### Cupcake Wash
+
+- 2 Tbsp Apple Cider
+- 2 Tbsp melted butter
+
+1. Combine 
+
+### Apple Cider Buttercream
+
+- 6 Tbsp Vegtable shortening
+- 6 Tbsp Butter (Room Temperature)
+- 5oz (1 1/2 Cups) Sifted Powdered Sugar
+- 1 tsp Vanilla past (extract works too but paste is better for frostings)
+- 2 tbsp Apple Cider Concentrate (see [above](#apple-cider-concentrate) for instructions)
+- 2 tsp flour
+- 1/2 tsp ground cinnamon
+- 1/4 tsp ground nutmeg
+- 1/4 tsp ground cloves
+
+1. Vigorously whisk the butter and the shortening in a large bowl
+1. Whisk in the cinnamon, nutmeg, and cloves.
+1. Whisk the powdered sugar
+1. 
