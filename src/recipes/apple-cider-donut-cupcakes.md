@@ -19,7 +19,7 @@ a try and they turned out delicious!
 1. Reduce heat to keep at a simmer but avoid boiling.
 1. Stir occasionally until cider has reduced volume to half (3/4 cup).
 
-> Note: reduced apple cider
+> Note:
 > I highly recommend reducing the cider beforehand, it's simple but time consuming.
 > It keeps well in the fridge, and you can make extra if you plan on making mutiple batches, 
 > or have some other baking projects you want to use it for.
