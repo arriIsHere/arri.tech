@@ -1,0 +1,42 @@
+:root {
+	--heading-font: 'Cormorant Garamond', serif;
+	--main-font: 'Cormorant Infant', serif;
+	--link-color: rgb(26, 189, 153);
+	--outline-color: rgb(26, 189, 153);
+
+	font-size: 36px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+}
+
+p {
+	margin: 0;
+	padding-bottom: 0.5em;
+}
+
+a {
+	text-decoration: none;
+}
+
+.halow-image {
+	border-radius: 25%;
+	box-shadow: 0 0 8px #FFF inset;
+}
+
+.medium-image {
+	width: 5em;
+}

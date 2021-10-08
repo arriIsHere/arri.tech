@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<!--
+		Copyright 2021 Arriana Blais
+		Licensed under the Apache License, Version 2.0 (the "License");
+		you may not use this file except in compliance with the License.
+	-->
+	<meta name="viewport" content="initial-scale=1.0, width=device-width">
+	<meta property="og:title" content="Arri's Kitchen!">
+	<meta property="og:description" content="{{title}}">
+	<meta property="og:image" content="https://arri.tech/static/images/recipes/{{image}}">
+
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+Infant:300i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet">
+
+	<link href="/static/css/main.css" rel="stylesheet">
+	<link href="/static/css/themes/kitchen.css" rel="stylesheet">
+	<title>Arri's Kitchen! - {{title}}</title>
+</head>
+<body>
+	<header>
+		<h1>Arri's Kitchen</h1>
+		<h2>{{title}}</h2>
+		<img class="halow-image medium-image" alt="{{imageAlt}}" src="/static/images/recipes/{{image}}">
+	</header>
+	<main>
+		{{content | safe}}
+	</main>
+	<footer></footer>
+</body>
+</html>
