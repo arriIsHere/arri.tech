@@ -4,7 +4,7 @@
 	--link-color: rgb(26, 189, 153);
 	--outline-color: rgb(26, 189, 153);
 
-	font-size: 36px;
+	font-size: 24px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,5 +38,5 @@ a {
 }
 
 .medium-image {
-	width: 5em;
+	width: 10em;
 }
