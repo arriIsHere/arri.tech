@@ -40,6 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 img.profile-image {
 	border-radius: 4em;
 	width: 8em;
+	height: auto;
 	filter: sepia(200%)
 }
 
@@ -93,6 +94,7 @@ nav.navigation ol {
 
 .icon {
 	height: 1em;
+	width: auto;
 	margin-right: 0.5em;
 }
 
