@@ -1,5 +1,5 @@
 @font-face {
 	font-family: 'Hotfixel';
 	src: local('monospace'), url('./hotfixel.ttf') format('truetype');
-	font-display: swap;
+	font-display: fallback;
 }

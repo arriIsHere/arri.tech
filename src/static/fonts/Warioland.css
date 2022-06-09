@@ -1,5 +1,5 @@
 @font-face {
 	font-family: 'warioland';
 	src: local('monospace'), url('./Warioland4chmc-VApe.ttf') format('truetype');
-	font-display: swap;
+	font-display: fallback;
 }
