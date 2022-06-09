@@ -19,7 +19,20 @@ body, html {
 	--outline: var(--outline-color) dotted 0.1em;
 	font-size: 48px;
 
-	background: fixed top / cover no-repeat url('/static/images/background.jpg');
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+	background-image: -webkit-image-set( 
+		url('/static/images/background.webp') type('image/webp'),
+		url('/static/images/background.jpg') type('image/jpg')
+	);
+
+	background-image: image-set( 
+		url('/static/images/background.webp') type('image/webp'),
+		url('/static/images/background.jpg') type('image/jpg')
+	);
 }
 
 h1, h2, h3, h4, h5, h6 {
