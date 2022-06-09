@@ -11,8 +11,8 @@ love it and am hoping to do more!
 
 ## Projects
 
-I spend most of my development time with work and like to spend my free time outdoors!.
-However there are some side projects I have made for fun. Feel free to check them out.
+I do most of my development at work and like to spend my free time outdoors,
+however there are some side projects I have made for fun. Feel free to check them out.
 <span class="ascii-art" role="img" aria-hidden="true" aria-label="ascii smiley face">:)</span>
 
 ### Brewlab
