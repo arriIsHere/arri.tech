@@ -24,6 +24,16 @@ For now you can check out my progress on it's site.
 
 <a href="https://codium.rocks/" rel="noopener noreferrer" target="_blank">Codium Rocks!</a>
 
+### nilJS
+
+This is a simple component library that I made. It contains HTML and CSS only (no JavaScript) 
+snippets that you can plug into your project. My intent is to encourage more developers to see 
+how powerful CSS is and how much you can do even with JavaScript Disabled.
+
+<a href="https://niljs.com/" rel="noopener noreferrer" target="_blank">nilJS</a>
+
+<a href="https://github.com/arriIsHere/no-js-components" rel="noopener noreferrer" target="_blank">Source</a>
+
 ### Brewlab
 
 This is a system that I intend to use to manage my brewing. It uses 
@@ -45,16 +55,6 @@ source code for those wishing to use it, or draw upon it for their games.
 <a href="https://shadowlance.benblais.com/" rel="noopener noreferrer" target="_blank">Shadowlance</a>
 
 <a href="https://github.com/arriIsHere/shadowlance" rel="noopener noreferrer" target="_blank">Source</a>
-
-### nilJS
-
-This is a simple component library that I made. It contains HTML and CSS only (no JavaScript) 
-snippets that you can plug into your project. My intent is to encourage more developers to see 
-how powerful CSS is and how much you can do even with JavaScript Disabled.
-
-<a href="https://niljs.com/" rel="noopener noreferrer" target="_blank">nilJS</a>
-
-<a href="https://github.com/arriIsHere/no-js-components" rel="noopener noreferrer" target="_blank">Source</a>
 
 
 ## Talks
