@@ -15,6 +15,15 @@ I do most of my development at work and like to spend my free time outdoors,
 however there are some side projects I have made for fun. Feel free to check them out.
 <span class="ascii-art" role="img" aria-hidden="true" aria-label="ascii smiley face">:)</span>
 
+### Codium
+
+Codium is a design system I am building that was inspired by my nilJS project. I am trying to learn
+more about the design aspects of accessability so my goal is to make a design system that is 
+AAA WCAG compliant. When I am further along with development I will be happy ot share the code. 
+For now you can check out my progress on it's site.
+
+<a href="https://codium.rocks/" rel="noopener noreferrer" target="_blank">Codium Rocks!</a>
+
 ### Brewlab
 
 This is a system that I intend to use to manage my brewing. It uses 
@@ -46,6 +55,7 @@ how powerful CSS is and how much you can do even with JavaScript Disabled.
 <a href="https://niljs.com/" rel="noopener noreferrer" target="_blank">nilJS</a>
 
 <a href="https://github.com/arriIsHere/no-js-components" rel="noopener noreferrer" target="_blank">Source</a>
+
 
 ## Talks
 
