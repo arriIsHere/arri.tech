@@ -25,8 +25,6 @@ GraphQL-Yoga</a>
 on the backend. Data is persisted using MongoDB. This is currently live but is only used for my 
 personal brewing projects. I also created a utility library which you are free to use!
 
-<a href="https://brewlab.pub/" rel="noopener noreferrer" target="_blank">Brewlab</a>
-
 <a href="https://github.com/arriIsHere/brewlab-calc" rel="noopener noreferrer" target="_blank">Library Source</a>
 
 ### Campaign Setting
