@@ -52,7 +52,7 @@ expand on it. My players and myself are now several years into this game. I fina
 a stylized website for this setting. I have licensed it under creative commons and provided the 
 source code for those wishing to use it, or draw upon it for their games.
 
-<a href="https://shadowlance.benblais.com/" rel="noopener noreferrer" target="_blank">Shadowlance</a>
+<a href="https://shadowlance.arri.tech/" rel="noopener noreferrer" target="_blank">Shadowlance</a>
 
 <a href="https://github.com/arriIsHere/shadowlance" rel="noopener noreferrer" target="_blank">Source</a>
 
