@@ -78,8 +78,6 @@ guides on how to make your tooling usable and easy for differently-abled people!
 
 Hya! Come follow me on other places on the interwebs!
 
-<a href="https://twitter.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" width="24" height="24" src="/static/icons/twitter.svg" alt="Twitter logo">@ArriIsHere</a>
-
 <a href="https://hachyderm.io/@arri" rel="me" target="_blank"><img class="icon" width="24" height="24" src="/static/icons/mastodon.svg" alt="Mastodon Logo">@arri@hachyderm.io</a>
 
 <a href="https://github.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" width="24" height="24" src="/static/icons/github.svg" alt="GitHub logo">ArriIsHere</a>
