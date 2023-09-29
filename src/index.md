@@ -24,6 +24,13 @@ For now you can check out my progress on it's site.
 
 <a href="https://codium.rocks/" rel="noopener noreferrer" target="_blank">Codium Rocks!</a>
 
+### AutoHeader
+
+Common problem that I run into is leveling headings properly. I created this so I can easily specify 
+"up," "down," or "same" for heading levels.
+
+<a href="https://niljs.com" rel="noopener noreferrer" target="_blank">AudoHeader Source code</a>
+
 ### nilJS
 
 This is a simple component library that I made. It contains HTML and CSS only (no JavaScript) 
@@ -33,28 +40,6 @@ how powerful CSS is and how much you can do even with JavaScript Disabled.
 <a href="https://niljs.com/" rel="noopener noreferrer" target="_blank">nilJS</a>
 
 <a href="https://github.com/arriIsHere/no-js-components" rel="noopener noreferrer" target="_blank">Source</a>
-
-### Brewlab
-
-This is a system that I intend to use to manage my brewing. It uses 
-<a href="https://vuejs.org/" rel="noopener noreferrer" target="_blank">Vue.js</a>
-for the frontend, and 
-<a href="https://github.com/prisma/graphql-yoga" rel="noopener noreferrer" target="_blank">
-GraphQL-Yoga</a>
-on the backend. Data is persisted using MongoDB. This is currently live but is only used for my 
-personal brewing projects. I also created a utility library which you are free to use!
-
-<a href="https://github.com/arriIsHere/brewlab-calc" rel="noopener noreferrer" target="_blank">Library Source</a>
-
-### Campaign Setting
-Originally intended for a one-off campaign, I made the Shadowlance setting and have continued to 
-expand on it. My players and myself are now several years into this game. I finally decided to make 
-a stylized website for this setting. I have licensed it under creative commons and provided the 
-source code for those wishing to use it, or draw upon it for their games.
-
-<a href="https://shadowlance.arri.tech/" rel="noopener noreferrer" target="_blank">Shadowlance</a>
-
-<a href="https://github.com/arriIsHere/shadowlance" rel="noopener noreferrer" target="_blank">Source</a>
 
 
 ## Talks
