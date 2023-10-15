@@ -3,6 +3,8 @@ const markdownItAnchor = require('markdown-it-anchor');
 
 module.exports = function(eleventyConfig) {
 
+	eleventyConfig.addPassthroughCopy('src/.well-known');
+
 	const markdownOptions = markdownIt({
 		html: true, 
 		typographer: true
