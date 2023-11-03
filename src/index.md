@@ -29,7 +29,7 @@ For now you can check out my progress on it's site.
 Common problem that I run into is leveling headings properly. I created this so I can easily specify 
 "up," "down," or "same" for heading levels.
 
-<a href="https://niljs.com" rel="noopener noreferrer" target="_blank">AudoHeader Source code</a>
+<a href="https://github.com/arriIsHere/audo-header" rel="noopener noreferrer" target="_blank">AudoHeader Source code</a>
 
 ### nilJS
 
