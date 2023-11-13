@@ -20,7 +20,7 @@ however there are some side projects I have made for fun. Feel free to check the
 Codium is a design system I am building that was inspired by my nilJS project. I am trying to learn
 more about the design aspects of accessability so my goal is to make a design system that is 
 AAA WCAG compliant. When I am further along with development I will be happy ot share the code. 
-For now you can check out my progress on it's site.
+For now you can check out my progress on its site.
 
 <a href="https://codium.rocks/" rel="noopener noreferrer" target="_blank">Codium Rocks!</a>
 
