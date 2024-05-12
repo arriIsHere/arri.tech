@@ -6,7 +6,7 @@ title: welcome
 ## Hoi
 
 Welcome humans! I'm Arri, a Senior Software Engineer with a knack for frontend development 
-and a passion for Accessability. I have just now started doing talks at conferences but I 
+and a passion for accessibility. I have just now started doing talks at conferences but I 
 love it and am hoping to do more!
 
 ## Projects
@@ -18,7 +18,7 @@ however there are some side projects I have made for fun. Feel free to check the
 ### Codium
 
 Codium is a design system I am building that was inspired by my nilJS project. I am trying to learn
-more about the design aspects of accessability so my goal is to make a design system that is 
+more about the design aspects of accessibility so my goal is to make a design system that is 
 AAA WCAG compliant. When I am further along with development I will be happy ot share the code. 
 For now you can check out my progress on its site.
 
