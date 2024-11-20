@@ -67,6 +67,4 @@ Hya! Come follow me on other places on the interwebs!
 
 <a href="https://github.com/arriIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" width="24" height="24" src="/static/icons/github.svg" alt="GitHub logo">ArriIsHere</a>
 
-<a href="https://www.threads.net/@arrianaIsHere" rel="noopener noreferrer" target="_blank"><img class="icon" width="24" height="24" src="/static/icons/threads.svg" alt="Threads Logo">@arrianaIsHere</a>
-
 <a href="https://bsky.app/profile/arri.tech" rel="noopener noreferrer" target="_blank"><img class="icon" width="24" height="24" src="/static/icons/bluesky.png" alt="Bluesky logo">@arri.tech</a>
